@@ -35,7 +35,6 @@ The **CS Careers Website** is a responsive, user-friendly platform designed for 
 │   ├── banner.jpg      # Banner image
 │   ├── favicon.png     # Favicon for the site
 │   ├── side-image.jpg  # Image for the About section
-├── index.html          # Main HTML file (provided above)
 └── README.md           # Documentation (this file)
 ```
 
